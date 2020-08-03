@@ -1,2 +1,3 @@
-# Waddle-On-CMS
-The official Waddle On CMS
+#WOCMS / Waddle On CMS
+
+Missing database file soon updated!
