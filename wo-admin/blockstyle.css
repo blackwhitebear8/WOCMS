@@ -1,0 +1,232 @@
+body {   /* body color */
+    background-color: #22a4f2;
+    width:100%;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+.blog-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: 2%;
+  margin-left: 10%;
+  height: 200px;
+  width: 430px;
+}
+
+.blog-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+
+.safety-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: -11%;
+  margin-right: 10%;
+  height: 200px;
+  width: 430px;
+}
+
+.safety-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+.discordurl-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: 2%;
+  margin-left: 10%;
+  height: 200px;
+  width: 430px;
+}
+
+.discordurl-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+.accounturl-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: 2%;
+  margin-left: 10%;
+  height: 200px;
+  width: 430px;
+}
+
+.accounturl-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+.registerurl-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: -11%;
+  margin-right: 10%;
+  height: 200px;
+  width: 430px;
+}
+
+.registerurl-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+.playurl-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: -11%;
+  margin-right: 10%;
+  height: 200px;
+  width: 430px;
+}
+
+.playurl-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+.footertxt-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: 20%;
+  margin-right: 10%;
+  height: 200px;
+  width: 430px;
+}
+
+.footertxt-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+.cppsname-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: -50%;
+  margin-left: -235%;
+  height: 200px;
+  width: 430px;
+}
+
+.cppsname-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+.mail1-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: 10%;
+  margin-left: -235%;
+  height: 200px;
+  width: 430px;
+}
+
+.mail1-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
+
+.mail2-css-block {   /* blog con */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #017ad3;
+  margin-top: -46%;
+  margin-right: 10%;
+  height: 200px;
+  width: 430px;
+}
+
+.mail2-css-block-form {   /* blog con form */
+  margin: 0 auto;
+  box-shadow: 3px 3px #0095BD;
+  border-radius: 10px;
+  background: #22a4f2;
+  margin-top: 2%;
+  margin-left: 8%;
+  height: 100px;
+  width: 300px;
+}
